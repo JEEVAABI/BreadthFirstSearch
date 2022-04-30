@@ -1,24 +1,25 @@
-# Breadth First Search
+# Breadth-First Search
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
 
-## THEORY
+## THEORY:
+Breadth-first search, also known as BFS, finds shortest paths from a given source vertex to all other vertices, in terms of the number of edges in the paths.
 
 
 ## DESIGN STEPS
 
 ### STEP 1:
-Identify a location in the google map.
+Identify a location on the google map.
 
 ### STEP 2:
 Select a specific number of nodes(locations) with distance.
 
 ### STEP 3:
-Import reqired packages.
+Import required packages.
 
 ### STEP 4:
-Include each nodes and its distance separately in dictionary  data structure. 
+Include each node and its distance separately in the dictionary  data structure. 
 
 ### STEP 5:
 End of program.
